@@ -1,0 +1,2 @@
+# aspcoreapp
+docker try
